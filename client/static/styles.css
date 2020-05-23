@@ -1,0 +1,89 @@
+body {
+  font-family: "Arial Rounded MT Bold";
+  margin-top: 4rem;
+}
+
+section {
+  margin: 2rem 0rem;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.small-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.primary-heading {
+  font-size: 72px;
+  letter-spacing: 2.5px;
+  color: #3DD47D;
+  font-weight: bolder;
+}
+
+.secondary-heading {
+  font-size: 36px;
+  color: #2C995A;
+  font-weight: bold;
+}
+
+.tertiary-heading {
+  font-size: 24px;
+  color: #2C995A;
+  font-weight: bold;
+}
+
+.input-element {
+  width: 100%;
+  padding: .5rem 1rem;
+  border: 0.5px;
+  border-radius: .25rem;
+  color: #495057;
+  background-color: #fff;
+  height: 36px;
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+  font-size: 24px;
+}
+
+.input-element:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+.drink-choice {
+  color: #0f6e37;
+  text-decoration: underline;
+}
+
+.shadow {
+  box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+}
+
+.drink-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.drink-card {
+  max-width: 200px;
+}
+
+.card-image {
+  border-radius: 10px;
+  width: 200px;
+}
+
+.heading-link {
+  text-decoration: none;
+}
