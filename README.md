@@ -1,5 +1,7 @@
 # Cocktail Recomender
 
+![mockup](figures/results.jpg)
+
 The goal of this project is to build a recommendation engine that can suggest cocktails based on your preferences.
 
 **Tasks to be Done**
