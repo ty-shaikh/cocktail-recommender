@@ -11,11 +11,11 @@ The goal of this project is to build a recommendation engine that can suggest co
 
 ## Folder Structure
 
-*api*: Flask backend to compute recommendations and send them to frontend
-*client*: Frontend using ES6 to fetch data from Flask API
-*data*: Raw and processed data
-*figures*: Graphical assets
-*notebooks*: Exploratory work and prototype recommenders
+- *api*: Flask backend to compute recommendations and send them to frontend
+- *client*: Frontend using ES6 to fetch data from Flask API
+- *data*: Raw and processed data
+- *figures*: Graphical assets
+- *notebooks*: Exploratory work and prototype recommenders
 
 ## Recommenders
 
